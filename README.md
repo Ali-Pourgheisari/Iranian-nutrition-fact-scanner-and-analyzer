@@ -74,9 +74,13 @@ you can see the results of the project in the following images:
   <img src="nutritional_label.jpg">
 </p>
 <h3 align="center">Analyze of the intake calories</h3>
-![Calorie Analysis](tabel.jpg)
+<p align="center">
+  <img src="tabel.jpg">
+</p>
 <h3 align="center">Search result of the product Id in authority's website</h3>
-![Additional Product Details](certificate.png)
+<p align="center">
+  <img src="certificate.png">
+</p>
 
 ## Improvements
 
