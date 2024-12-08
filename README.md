@@ -73,7 +73,7 @@ you can see the results of the project in the following images:
 <p align="center">
   <img src="nutritional_label.jpg">
 </p>
-<h3 align="center">Analyze of the intake calories</h3>
+<h3 align="center">Analysis of the intake calories</h3>
 <p align="center">
   <img src="tabel.jpg">
 </p>
