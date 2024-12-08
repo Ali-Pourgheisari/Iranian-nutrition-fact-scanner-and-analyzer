@@ -1,6 +1,6 @@
 # Food Product Information Extraction using Computer vision
 
-This project focuses on extracting nutritional information and technical details from food product images, utilizing machine learning models such as YOLOv8 and OCR (Optical Character Recognition) techniques. The system aims to help consumers make informed choices by providing easy access to detailed product information, including nutritional facts, technical product details, and activity-related calorie burn estimates. This project is completed for the thesis of my bachelor's degree and you can read the full thesis in persian [here](https://github.com/Ali-Pourgheysari/Iranian-nutrition-fact-scanner-and-analyzer/blob/main/Documents/Thesis.pdf).
+This project focuses on extracting nutritional information and technical details from food product images, utilizing machine learning models such as YOLOv8 and OCR (Optical Character Recognition) techniques. The system aims to help consumers make informed choices by providing easy access to detailed product information, including nutritional facts, technical product details, and activity-related calorie burn estimates. This project is completed for the thesis of my bachelor's degree and you can read the full thesis in Persian [here](https://github.com/Ali-Pourgheysari/Iranian-nutrition-fact-scanner-and-analyzer/blob/main/Documents/Thesis.pdf).
 
 ## Overview
 
@@ -69,7 +69,12 @@ The system showed high performance in both label detection and text recognition 
   - NED: 96.9%
 
 you can see the results of the project in the following images:
-![Extracted Nutritional Information](nutritional_label.jpg) ![Calorie Analysis](tabel.jpg) ![Additional Product Details](certificate.png)
+<h3 align="center">Recognition of words and characters</h3>
+![Extracted Nutritional Information](nutritional_label.jpg)
+<h3 align="center">Analyze of the intake calories</h3>
+![Calorie Analysis](tabel.jpg)
+<h3 align="center">Search result of the product Id in authority's website</h3>
+![Additional Product Details](certificate.png)
 
 ## Improvements
 
