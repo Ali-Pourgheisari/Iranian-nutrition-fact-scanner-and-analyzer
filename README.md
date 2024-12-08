@@ -70,7 +70,9 @@ The system showed high performance in both label detection and text recognition 
 
 you can see the results of the project in the following images:
 <h3 align="center">Recognition of words and characters</h3>
-![Extracted Nutritional Information](nutritional_label.jpg)
+<p align="center">
+  <img src="nutritional_label.jpg">
+</p>
 <h3 align="center">Analyze of the intake calories</h3>
 ![Calorie Analysis](tabel.jpg)
 <h3 align="center">Search result of the product Id in authority's website</h3>
