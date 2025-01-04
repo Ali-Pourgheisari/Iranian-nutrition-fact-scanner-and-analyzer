@@ -66,7 +66,7 @@ The system showed high performance in both label detection and text recognition 
 
 - **TPS-ResNet-BiLSTM-Attn**:
   - Accuracy: 88.5%
-  - NED: 96.9%
+  - 1 - NED: 96.9%
 
 you can see the results of the project in the following images:
 <h3 align="center">Recognition of words and characters</h3>
